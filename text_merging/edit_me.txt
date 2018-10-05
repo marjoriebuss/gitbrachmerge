@@ -6,4 +6,12 @@ Good night!
 
 Let us test a merge
 
+<<<<<<< HEAD
 Marjorie's edits :)
+=======
+Data analysis is fun!
+
+More issues!
+
+Get an error!
+>>>>>>> a569ae774d5f7c7d54d01c0827921977a592b984
